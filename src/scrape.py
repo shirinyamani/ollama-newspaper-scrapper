@@ -9,7 +9,7 @@ country_newspapers = {"Germany":("https://www.deutschland.de/de",'.teaser-small_
 
 def create_prompt():
     # Get Country
-    country = input("What country would you like a news summary for? ")
+    country = input("What country would you like a news summary for? (France/Germany/more to come...)")
     # Get country's URL newspaper and the HTML Tag for titles
     capitalized_country = country.capitalize()
     try:
