@@ -15,4 +15,5 @@ pip install -r requirements.txt
 ```python
 python main.py
 ```
+5. Enjoy reading the 🗼🥐 news!
 
