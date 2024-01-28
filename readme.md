@@ -1,4 +1,4 @@
-## Newspaper Website Scraper and translation with llama2
+## Newspaper 📰 Website Scraper and translation with llama2
 ![img](https://miro.medium.com/v2/resize:fit:1024/1*sWtpjj-uE_ez8OoMslyqPw.png)
 
 ## Introduction
