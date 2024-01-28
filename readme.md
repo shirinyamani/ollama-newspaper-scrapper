@@ -17,3 +17,6 @@ python main.py
 ```
 5. Enjoy reading the 🗼🥐 news!
 
+## Limitation
+According to llama2 limited translation support, this model for now only supports the Dutch and French news websites. More to come soon....
+
